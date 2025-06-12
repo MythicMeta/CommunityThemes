@@ -1,0 +1,76 @@
+{
+    "palette": {
+        "background": {
+            "dark": "#282a36",
+            "light": "#f6f6f6"
+        },
+        "backgroundImage": {
+            "dark": null,
+            "light": null
+        },
+        "error": {
+            "dark": "#ff5555",
+            "light": "#c42c32"
+        },
+        "info": {
+            "dark": "#8be9fd",
+            "light": "#4990b2"
+        },
+        "navBarColor": {
+            "dark": "#282a36",
+            "light": "#3c4d67"
+        },
+        "navBarIcons": {
+            "dark": "#ffb86c",
+            "light": "#ffffff"
+        },
+        "navBarText": {
+            "dark": "#ffb86c",
+            "light": "#ffffff"
+        },
+        "pageHeader": {
+            "dark": "#44475a",
+            "light": "#706c6e"
+        },
+        "paper": {
+            "dark": "#44475a",
+            "light": "#ececec"
+        },
+        "primary": {
+            "dark": "#6272a4",
+            "light": "#75859b"
+        },
+        "secondary": {
+            "dark": "#50fa7b",
+            "light": "#a6a5a5"
+        },
+        "selectedCallbackColor": {
+            "dark": "#44475a",
+            "light": "#c6e5f6"
+        },
+        "selectedCallbackHierarchyColor": {
+            "dark": "#44475a",
+            "light": "#deeff8"
+        },
+        "success": {
+            "dark": "#50fa7b",
+            "light": "#0e7004"
+        },
+        "tableHeader": {
+            "dark": "#282a36",
+            "light": "#c4c4c4"
+        },
+        "tableHover": {
+            "dark": "#6272a4",
+            "light": "#e8e8e8"
+        },
+        "text": {
+            "dark": "#f8f8f2",
+            "light": "#000000"
+        },
+        "warning": {
+            "dark": "#ffb86c",
+            "light": "#ffb74d"
+        }
+    }
+}
