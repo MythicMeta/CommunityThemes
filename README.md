@@ -1,4 +1,4 @@
-# CommunityThemes
+# Community Themes
 A collection of Mythic UI Themes from the community and converted from other themes. The format of this repo is based on the awesome work done by the Binary Ninja team and their [community theme repository](https://github.com/Vector35/community-themes).
 
 ## Using themes
