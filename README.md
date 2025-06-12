@@ -64,8 +64,8 @@ from [Krypton](https://github.com/kkrypt0nn) via [BinaryNinja](https://github.co
 ### CMYK
 from [toolCHAINZ](https://github.com/toolCHAINZ) via [BinaryNinja](https://github.com/Vector35/community-themes)
 
-![CMYK](previews/cmyk1.png)
-![CMYK](previews/cmyk2.png)
+![CMYK](previews/CYMK1.png)
+![CMYK](previews/CYMK2.png)
 
 
 ### Dracula
